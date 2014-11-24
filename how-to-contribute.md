@@ -15,7 +15,7 @@ to let others know that you're doing so. It is as simple as creating a
 Github issue and explain your feature request in a few sentences.
 
 It is also a happy feeling for the authors to know who's using the
-software, what features people care about, and what feature are
+software, what features people care about, and what features are
 missing. Feature requests and feedback in general are already
 valuable even if you're not going to contribute code.
 
