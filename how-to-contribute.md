@@ -77,14 +77,14 @@ Basic formatting rules:
 In OCaml, here is how you can cut a long string literal:
 ```ocaml
   print_string "\
-    All your base belong \
+    All your base are belong \
     to us.
 "
 ```
 
 It's the same as:
 ```ocaml
-  print_string "All your base belong to us.\n"
+  print_string "All your base are belong to us.\n"
 ```
 
 
